@@ -76,3 +76,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 * [Kaggle](https://www.kaggle.com/) for hosting the dataset
 * Open-source Python libraries used for data analysis and plotting
+Some of the outputs of the project 
+![alt text](image.png)
+![alt text](<Screenshot 2025-05-26 000512.png>) ![alt text](<Screenshot 2025-05-26 162124.png>)
+![alt text](<Screenshot 2025-05-26 162149.png>) ![alt text](<Screenshot 2025-05-26 162209.png>) ![alt text](<Screenshot 2025-05-26 162233.png>) ![alt text](<Screenshot 2025-05-26 162328.png>)
