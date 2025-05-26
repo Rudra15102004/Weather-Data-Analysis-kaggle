@@ -78,13 +78,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * Open-source Python libraries used for data analysis and plotting
 Some of the outputs of the project 
 # Variable Correlation#
-[image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Correlation.png)
-# Temperature Anamolies#
-[image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/Screenshot%202025-05-26%20000512.png)
-## values ranges and Uniques city names #
-[image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/Screenshot%202025-05-26%20162124.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Correlation.png)
 ## Overall Statistics#
-[image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/Screenshot%202025-05-26%20162149.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Overall%20Stastics.png)
 ## wind speed vs temp by city
-[image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/Screenshot%202025-05-26%20162328.png)
-
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Wind%20Speed%20Vs%20Temp%20by%20City.png)
+## Total Precipitation by city 
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Total%20Precipitation%20by%20city.png)
