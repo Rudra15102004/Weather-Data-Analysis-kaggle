@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * Open-source Python libraries used for data analysis and plotting
 Some of the outputs of the project 
 # Variable Correlation#
-[image](C:\Users\RUDRA\OneDrive\Documents\GitHub\weather-data-analysis\images)
+[image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Correlation.png)
 # Temperature Anamolies#
 [image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/Screenshot%202025-05-26%20000512.png)
 ## values ranges and Uniques city names #
