@@ -127,7 +127,10 @@ Weather-Data-Analysis-kaggle/
 ![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Temperature%20Trend%20Over%20Time.png)
 ![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Wind%20Speed%20Vs%20Temp%20by%20City.png)
 ![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/precipitation_analysis.png)
-
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Correlation%20between%20weather%20variables.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Monthly%20Temperature%20distribution.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Temperature%20trend.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Temperature%20vs%20Precipitation.png)
 
 ### Key Features Guide
 
