@@ -111,6 +111,19 @@ Weather-Data-Analysis-kaggle/
    - Apply filters to focus on specific weather parameters
    - Download results using the export buttons
 
+### Outputs of Dashboards and plot and graphs 
+## 📊 Dashboard Screenshot
+
+![Dashboard Preview]("C:\Users\RUDRA\OneDrive\Pictures\Screenshots\Screenshot 2025-06-07 141233.png" "Streamlit Dashboard")
+
+## 📊 Interactive Graphs and plots 
+
+![]( "C:\Users\RUDRA\OneDrive\Documents\GitHub\weather-data-analysis\images\Temperature Overtime (inter active).png""Temperature Overtime (inter active)")
+
+![]( """")
+
+
+
 ### Key Features Guide
 
 - **Data Overview**: View summary statistics and data quality metrics
