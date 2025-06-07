@@ -114,13 +114,12 @@ Weather-Data-Analysis-kaggle/
 ### Outputs of Dashboards and plot and graphs 
 ## 📊 Dashboard Screenshot
 
-![Dashboard Preview]("C:\Users\RUDRA\OneDrive\Pictures\Screenshots\Screenshot 2025-06-07 141233.png" "Streamlit Dashboard")
+![Dashboard Preview](C:\Users\RUDRA\OneDrive\Pictures\Screenshots\Screenshot 2025-06-07 141233.png" "Streamlit Dashboard)
 
 ## 📊 Interactive Graphs and plots 
 
-![]( "C:\Users\RUDRA\OneDrive\Documents\GitHub\weather-data-analysis\images\Temperature Overtime (inter active).png""Temperature Overtime (inter active)")
+![image](C:\Users\RUDRA\OneDrive\Documents\GitHub\weather-data-analysis\images\Temperature Overtime (inter active).png)
 
-![]( """")
 
 
 
