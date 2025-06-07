@@ -111,7 +111,43 @@ Weather-Data-Analysis-kaggle/
    - Apply filters to focus on specific weather parameters
    - Download results using the export buttons
 
+
+## 📊 Exploratory Data Insights
+
+### 🔹 Line Plot – Temperature Trend Over Time
+This plot shows how the temperature changes over time for the selected city. A steady upward trend is observed in summer (May to July) and a dip in winter (December to January), matching seasonal weather patterns.
+
+### 🔹 Box Plot – Monthly Temperature Distribution
+This boxplot reveals the spread of temperature each month. July displays a consistent high temperature with minimal variance, while March exhibits more variation.
+
+### 🔹 Scatter Plot – Temperature vs Precipitation
+A negative relationship is seen: higher temperatures often align with lower precipitation. This suggests drier periods during hotter months.
+
+### 🔹 Bar Chart – Average Temperature by City
+City X records the highest average temperatures, hinting at geographic or climatic influences such as altitude or urban heating.
+
+### 🔹 Heatmap – Correlation Matrix
+The correlation matrix shows:
+- A strong negative correlation between temperature and humidity.
+- Positive correlation between wind speed and gusts.
+This helps understand which factors move together and informs feature selection for modeling.
+
+### 🔹 Interactive Plots (Plotly)
+Interactive visualizations allow users to:
+- Hover to see specific data points.
+- Zoom into particular time ranges.
+- Dynamically explore seasonal/weather patterns.
+
+---
+
+## ✅ Summary of Key Findings
+- **Temperature trends** show clear seasonality.
+- **Precipitation** is more common during colder months.
+- **Geographic differences** in weather patterns are evident between cities.
+- **Strong correlations** exist between temperature, wind, and humidity.
+
 ### Outputs of Dashboards and plot and graphs 
+
 ## 📊 Dashboard Screenshot
 
 ![Dashboard Preview](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Dashboard.png)
