@@ -114,13 +114,19 @@ Weather-Data-Analysis-kaggle/
 ### Outputs of Dashboards and plot and graphs 
 ## 📊 Dashboard Screenshot
 
-![Dashboard Preview](C:\Users\RUDRA\OneDrive\Pictures\Screenshots\Screenshot 2025-06-07 141233.png" "Streamlit Dashboard)
+![Dashboard Preview](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Dashboard.png)
 
 ## 📊 Interactive Graphs and plots 
 
-![image](C:\Users\RUDRA\OneDrive\Documents\GitHub\weather-data-analysis\images\Temperature Overtime (inter active).png)
-
-
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Average%20Temp%20Overtime%20Graph.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Avg%20Monthly%20Temp%20Range%20By%20City.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Correlation%20Heatmap.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Distribution%20Max%20Wind%20speed.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Humidity%20VS%20Temperature%20(interactive).png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Temperature%20Overtime%20(inter%20active).png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Temperature%20Trend%20Over%20Time.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/Wind%20Speed%20Vs%20Temp%20by%20City.png)
+![image](https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle/blob/main/images/precipitation_analysis.png)
 
 
 ### Key Features Guide
