@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Rudra** - [GitHub Profile](https://github.com/Rudra15102004)
+**Rudra** - [GitHub Profile](https://github.com/Rudra15102004)  And Teammates - Vaibhav Pandey ,Abhishek Gupta and Naveen Kumar
 
 ## 🙏 Acknowledgments
 
